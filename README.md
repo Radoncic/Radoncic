@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Radoncic
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning new things every day
+const job = "WebDev";
+let age = 21;
+const isMarried = true;
+let numOfChildren = 1;
