@@ -1,6 +1,6 @@
 const job = "WebDev";
 
-let age = 21;
+let age = 22;
 
 const isMarried = true;
 
